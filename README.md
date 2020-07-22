@@ -16,4 +16,4 @@ Examples using a variety of popular "data science" Python libraries.
 
 ## The HeatMap
 
-You can se the map <p><a href="https://solenya1.github.io/CovidGoianiaHeatMap/">HERE</a></p>
+You can see the map <p><a href="https://solenya1.github.io/CovidGoianiaHeatMap/">HERE</a></p>
