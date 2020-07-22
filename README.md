@@ -13,3 +13,7 @@ Examples using a variety of popular "data science" Python libraries.
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb">NumPy</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Pandas.ipynb">Pandas</a><br/>
 <a href="https://python-visualization.github.io/folium/">Folium</a><br/>
+
+## The HeatMap
+
+You can se the map <p><a href="https://solenya1.github.io/CovidGoianiaHeatMap/">HERE</a></p>
